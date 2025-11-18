@@ -3,6 +3,7 @@ streamlit
 pandas
 scikit-surprise
 plotly
+statsmodels
 wordcloud
 matplotlib
 folium
