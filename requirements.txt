@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-surprise
+plotly
+wordcloud
+matplotlib
+folium
+streamlit-folium
+openpyxl
